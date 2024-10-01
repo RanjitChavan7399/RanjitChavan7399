@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello !👋, I am Ranjit.
 
 <!--
 **RanjitChavan7399/RanjitChavan7399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
